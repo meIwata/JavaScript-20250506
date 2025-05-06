@@ -43,7 +43,7 @@ calculate(1, 1, resultInCh);
 
 
 
-
+// 將程式轉成 prompt
 // 一個函數calculator 可以接收另一個函數做為參數 callback
 // calculator會做加法運算，然後把結果傳給callback函數
 // callback函數會根據傳入的語言參數來決定結果的語言
